@@ -1,0 +1,12 @@
+# Thư mục chứa model đã huấn luyện
+results_sentiment_3label/
+
+# File cache của Python
+__pycache__/
+
+# File cache của Jupyter
+.ipynb_checkpoints/
+
+# File môi trường ảo (nếu bạn tạo trên máy)
+venv/
+env_summary/
