@@ -27,18 +27,23 @@ Clone repository:
 
 Bash
 
-git clone https://github.com/thien2603/PhoBERT-Sentiment-Analysis.git và PhoBERT-Sentiment-Analysis
+git clone https://github.com/thien2603/PhoBERT-Sentiment-Analysis.git
 cd PhoBERT-Sentiment-Analysis
-
 Tạo môi trường ảo (khuyến khích để quản lý dependencies):
 
 Bash
 
 python -m venv venv
-# Linux/macOS
+Linux/macOS:
+
+Bash
+
 source venv/bin/activate
-# Windows
-# venv\Scripts\activate
+Windows:
+
+Bash
+
+venv\Scripts\activate
 Cài đặt thư viện: Các thư viện cần thiết được liệt kê trong requirements.txt.
 
 Bash
